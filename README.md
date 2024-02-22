@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Sahariar Hosen Supto</h1>
 <h3 align="center">A passionate frontend developer persuing Computer Science & Engineering.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahariarsupto" alt="sahariarsupto" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [dev-sahariarsupto.web.app](dev-sahariarsupto.web.app)
 
