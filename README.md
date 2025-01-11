@@ -1,4 +1,4 @@
-![Header](./image.png)
+![Header](https://media.licdn.com/dms/image/v2/D5616AQHJX64zMFx9Ag/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703775809600?e=1741824000&v=beta&t=khFDuEYyKX2IwOH18JYpALexBt6IWnvHuohQAhQ0RGM)
 
 <h1 align="center">Hello 👋, I'm Sahariar Hosen Supto</h1>
 <h3 align="center">A passionate Frontend Developer pursuing Computer Science & Engineering</h3>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on building engaging, user-friendly web applications.
 - 🌱 I’m exploring advanced **React**, **Node.js**, and **UI/UX Design**.
-- 👨‍💻 Check out all my projects at: [My Portfolio](https://dev-sahariarsupto.web.app)
+- 👨‍💻 Check out all my projects at: [My Portfolio](https://dev-sahariarsupto.vercel.app)
 - 📫 You can reach me at: **supto.cse.vu@gmail.com**
 
 ---
